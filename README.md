@@ -5,7 +5,7 @@ Links to the API and Android App:
 [Car Proximity Android App
 ](https://github.com/JordanCampbell1/Car-Proximity-App-Android)
 
-[Car Proxmity API](https://github.com/JordanCampbell1/Car-Proximity-App-API)
+[Car Proximity API](https://github.com/JordanCampbell1/Car-Proximity-App-API)
 
 ### Proximity-Based Car Assistant App
 
