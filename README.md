@@ -1,6 +1,7 @@
 # Car-Proximity-App
 
 Links to the API and Android App:
+
 [Car Proximity Android App
 ](https://github.com/JordanCampbell1/Car-Proximity-App-Android)
 
